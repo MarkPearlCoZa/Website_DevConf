@@ -6565,13 +6565,15 @@ button.close {
   text-align: center;
 }
 #about {
-  background-image: url("/public/images/home-banner-bg.jpg");
-  background-color: #eeeeee;
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
   padding-top: 80px;
   padding-bottom: 60px;
+}
+#about.test {
+  background-image: url("/public/images/home-banner-bg.jpg");
+  background-color: #eeeeee;
 }
 #about h2 {
   text-transform: uppercase;
