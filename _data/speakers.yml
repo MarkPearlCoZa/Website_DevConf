@@ -116,7 +116,8 @@
   track: "Persistence & Data"
   time: "11:50"
   title: How to prepare your Enterprise for NoSQL
-  
+  slides: http://www.slideshare.net/TobiasCoetzee/how-to-prepare-your-enterprise-for-nosql
+
 - publish: true
   track_order: 1
   firstname: Badi
